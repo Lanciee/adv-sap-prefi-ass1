@@ -1,6 +1,11 @@
 ## Assignment in Advanced Systems Integration & Architecture
 1. Define Service Oriented Architecture(SOA).
+-a method of software development that uses software components called services to create business applications.
 2. List and discuss the characteristics of SOA.
+-base on my research, the SOA or the service oriented architecture is an architectural style which aims to help organizations to design and build software that is flexible at the same time it is easy to maintain. SOA also has a bunch of characteristics and here are some. The first one is the Security, SOA emphasizes the implementation of the robust security which protects services and data especially this days security in data is really helpful. Next one is the Scalability, which talks about the SOA being allowed for scaling of individual services or components based on demand and with this it enhance the overall scalability.
 3. Define Microservices.
+-an architectural and organizational approach to software development where software is composed of small independent services that communicate over well-defined APIs.
 4. List and discuss the benefits of using Microservices.
+-base on my research about the microservices, microservices is a system design pattern that lets you split up a bunch of different services into a bunch of tiny micro services. An example of this is when u make your own application, every services that comes in and out of it is handle by only one server only which may cause sometimes overloading and this can make the application to crash but with microservices howeverit gives you an option of creating many server for every different services in your application. When it comes to using microservices, this helps the software engineering teams ship code much faster because they dont have to worry about the external dependencies because of microservices and then they can easily treat each services as its very own mini startup.
 5. List and discuss the similarities and differences of SOA and Microservices.
+-based on my research, both of them allow the developers or development teams to build,deploy and manage modern application efficiently for cloud environments. The difference between them is that SOA is based on sharing components while microservices is based on the concept of bounded text.
